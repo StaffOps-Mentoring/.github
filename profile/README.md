@@ -9,12 +9,15 @@ A mentoring program for people moving into DevOps, SRE and Platform Engineering,
 - ⚙️ **CI/CD** (in progress): GitHub Actions on real GitHub: your first pipeline, building and publishing images to GHCR, deciding the steps, security gates (Trivy, Semgrep), secrets and permissions
 - ☸️ **Kubernetes** (in progress, CKAD/CKA-aligned, on kind): workloads, configuration and health, scheduling, networking, storage, access and security, Helm, troubleshooting
 
-🚧 **In development:**
+#### 🚧 In development
+
 - **GitOps** with Argo CD
 - **DevSecOps basics**: pipeline security, SBOM and supply chain management, internal policies
 - **Observability basics**: the LGTM stack, OpenTelemetry, observability vs. monitoring
 - **Kubernetes Advanced**: service mesh, deployment strategies, security
 - **Platform Engineering**: concepts, developer experience, Internal Developer Platforms (Backstage)
+
+#### Repositories
 
 - **[mentoria-apps](https://github.com/StaffOps-Mentoring/mentoria-apps)**: the lab apps (vitrine, api, cofre, sonda) and their images
 
