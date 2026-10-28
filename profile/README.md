@@ -17,8 +17,4 @@ A mentoring program for people moving into DevOps, SRE and Platform Engineering,
 - **Kubernetes Advanced**: service mesh, deployment strategies, security
 - **Platform Engineering**: concepts, developer experience, Internal Developer Platforms (Backstage)
 
-#### Repositories
-
-- **[mentoria-apps](https://github.com/StaffOps-Mentoring/mentoria-apps)**: the lab apps (vitrine, api, cofre, sonda) and their images
-
 Part of [StaffOps](https://github.com/StaffOps).
